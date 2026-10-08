@@ -1,7 +1,6 @@
 /node_modules
 /storage/*.key
 /vendor
-.env
 .env.backup
 .phpunit.result.cache
 Homestead.json
@@ -12,3 +11,4 @@ yarn-error.log
 supervisord.log
 supervisord.pid
 /public/file/*
+config.bat
